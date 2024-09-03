@@ -12,3 +12,6 @@
 # Creating a super secured smart home management system could be incredibly efficient and integrate eith various smart devices and systems in a home.
 
 # Creating a program for the better of education sounds really intruiging. A personalized learning platform could be tailored to each specific student based on learning styles, weaknesses, strengths, and progress speed.
+
+
+#test
